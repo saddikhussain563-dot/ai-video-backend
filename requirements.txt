@@ -1,5 +1,5 @@
 fastapi
 uvicorn
 huggingface-hub
-moviepy
+moviepy==1.0.3
 python-multipart
