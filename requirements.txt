@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+huggingface-hub
+moviepy
+python-multipart
